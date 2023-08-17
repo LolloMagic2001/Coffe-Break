@@ -16,5 +16,6 @@ Se volete vedere come questi vengono modificati lascio l'email con le relative p
 
 -monti62@gmail.com 123456
 
-Quello che dovreste andare a fare sarebbe quello di loggare e cliccare settings, per poi modificare i dati e poi vedere come questi vengono aggiornati.(dal colore della tazzina e della quantità dello zucchero)
+Quello che dovreste andare a fare sarebbe quello di loggare e cliccare settings, per poi modificare i dati e poi vedere come questi vengono aggiornati.(dal colore della tazzina  alla quantità dello zucchero)
 
+Lascio i relativi screen nella cartella "Screen" nella root principale
