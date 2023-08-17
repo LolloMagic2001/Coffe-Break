@@ -1,20 +1,20 @@
-<<<<<<< HEAD
 # CoffeBreak
 =======
 # project
 
-A new Flutter project.
+A new Flutter project for break time.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Lo scopo di questo progetto è stata la creazione di un applicazione in cui la persona del giorno addetta ai caffè possa andare a vedere la tipologia preferita dai suoi colleghi.
 
-A few resources to get you started if this is your first Flutter project:
+Per andare a rendere tutto più sincrono ho utilizzato firebase per quanto riguarda l'autenticazione e la modifica dei dati.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Se volete vedere come questi vengono modificati lascio l'email con le relative pw di prova:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master
+-montilorenzo@outlook.it 123456
+
+-monti62@gmail.com 123456
+
+Quello che dovreste andare a fare sarebbe quello di loggare e cliccare settings, per poi modificare i dati e poi vedere come questi vengono aggiornati.(dal colore della tazzina e della quantità dello zucchero)
+
